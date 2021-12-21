@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/estilo.css">
+		<title>TecBlog - O seu blog de tecnologia</title>
+
+
+	</head>
+	<body>
+
+		<div id="cabecalho">
+
+			<div id="logo">
+				<h1>Tec<span class="branco">Blog</span></h1>
+			</div>
+
+			<div id="menu">
+				<a href="index.html">Home</a>
+				<a href="jogos.html">Jogos</a>
+				<a href="celulares.html">Celulares</a>
+				<a href="informatica.html">Informática</a>
+				<a href="eletronicos.html">Eletrônicos</a>
+			</div>
+
+		</div>
+
+		<div id="principal">
+
+			<div id="area-postagens">
+
+				<div class="postagem">
+
+					<h2>Tecnologia da informação</h2>
+
+					<span class="data-postagem">Postado 20/12/2021</span>
+
+					<img width="600px" src="imagens/imagem1.jpg">
+
+					<p>
+						Tecnologia da informação (conhecida também pela sigla TI), é uma área que utiliza a computação como um meio para produzir, transmitir, armazenar, aceder e usar diversas informações. Como a tecnologia da informação pode abranger e ser usada em vários contextos, a sua definição pode ser bastante complexa e ampla.
+					</p>
+
+					<a href="https://www.significados.com.br/tecnologia-da-informacao/#:~:text=Tecnologia%20da%20informa%C3%A7%C3%A3o%20(conhecida%20tamb%C3%A9m,ser%20bastante%20complexa%20e%20ampla.">Leia mais</a>
+				</div>
+			
+				<div class="postagem">
+
+					<h2>Inteligência Artificial</h2>
+
+					<span class="data-postagem">Postado 19/12/2021</span>
+
+					<img width="600px" src="imagens/imagem2.jpg">
+
+					<p>
+						Inteligência artificial é a capacidade de dispositivos eletrônicos de funcionar de maneira que lembra o pensamento humano. Isso implica em perceber variáveis, tomar decisões e resolver problemas. Enfim, operar em uma lógica que remete ao raciocínio.
+					</p>
+
+					<a href="https://fia.com.br/blog/inteligencia-artificial/#:~:text=Intelig%C3%AAncia%20artificial%20%C3%A9%20a%20capacidade,l%C3%B3gica%20que%20remete%20ao%20racioc%C3%ADnio.">Leia mais</a>
+
+				</div>
+			</div>
+
+			<div id="area-lateral">
+				<div class="conteudo-lateral">
+
+					<h3>Postagens recentes</h3>
+
+					<div class="postagem-lateral" style="border-bottom: none;">
+
+					<p>
+						Entre os inúmeros objetivos da inteligência artificial, o principal é desenvolver tecnologias que tenham a capacidade de simular as ações humanas e de pensar de maneira lógica.
+					</p>
+
+					<a href="https://fia.com.br/blog/inteligencia-artificial/">Leia mais</a>
+
+					<hr>
+					</div>
+
+					<div class="postagem-lateral" style="border-bottom: none;">
+
+					<p>
+						Qual é o principal objetivo da Inteligência Artificial?
+						Entre os inúmeros objetivos da inteligência artificial, o principal é desenvolver tecnologias que tenham a capacidade de simular as ações humanas e de pensar de maneira lógica.
+					</p>
+
+					<a href="https://fia.com.br/blog/inteligencia-artificial/">Leia mais</a>
+
+					<hr>
+					</div>
+				</div>
+
+				<div class="conteudo-lateral">
+
+					<h3>Categorias</h3>
+
+					<a href="">Jogos</a><br>
+					<a href="">Celulares</a><br>
+					<a href="">Informática</a><br>
+					<a href="">Eletrônicos</a><br>
+
+				</div>
+
+			</div>
+
+			<div id="rodape">
+				Todos os direitos reservados
+			</div>
+
+		</div>
+	</body>
+</html>
